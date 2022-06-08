@@ -1,6 +1,10 @@
 # Tabuada
 
 ```
+**Nota**: Qualquer valor multiplicado por 0 terá o resultado 0.
+```
+
+```
 1 x 1 = 1
 1 x 2 = 2
 1 x 3 = 3
